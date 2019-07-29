@@ -1,0 +1,32 @@
+<acceptance-test-run title="Medicion cuando no excede el nivel de ruido" name="medicionCuandoNoExcedeElNivelDeRuido" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="71901" timestamp="2019-07-27T00:15:17.241-05:00" session-id="949b248b-6420-4146-b44e-db818bb62ac2" test-source="JUnit">
+  <user-story id="sounddown.ciudadano.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.ciudadano.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="54577">
+    <screenshots>
+      <screenshot image="2720c86ab14940087e2b4f975e32a3cc.png"/>
+    </screenshots>
+    <description>Deslizar menu</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2676">
+    <screenshots>
+      <screenshot image="2359b35d598d586e24d1272250bbbc5e.png"/>
+      <screenshot image="f001bd921f08f97ff8d33b8b1db78e1f.png"/>
+    </screenshots>
+    <description>Seleccionar item sonometro</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2477">
+    <screenshots>
+      <screenshot image="97a172f83c86886e14e0fcb14295ea81.png"/>
+    </screenshots>
+    <description>Iniciar medicion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="11100">
+    <screenshots>
+      <screenshot image="55679688316fb0c176e6be5d721f14f7.png"/>
+      <screenshot image="408f2146f89a906f4f4e0bb9e43aa8e6.png"/>
+    </screenshots>
+    <description>Resultado</description>
+  </test-step>
+</acceptance-test-run>

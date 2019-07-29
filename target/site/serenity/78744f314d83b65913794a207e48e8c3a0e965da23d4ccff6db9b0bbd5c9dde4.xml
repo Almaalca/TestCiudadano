@@ -1,0 +1,47 @@
+<acceptance-test-run title="Medicion cuando excede el nivel de ruido" name="medicionCuandoExcedeElNivelDeRuido" steps="6" successful="6" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="33349" timestamp="2019-07-27T00:21:23.039-05:00" session-id="6d4f4963-c0de-4cd3-9338-c293e6e1d41e" test-source="JUnit">
+  <user-story id="sounddown.ciudadano.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.ciudadano.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="9107">
+    <screenshots>
+      <screenshot image="171368f48568b40d3501444ff98f7520.png"/>
+    </screenshots>
+    <description>Deslizar menu</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2712">
+    <screenshots>
+      <screenshot image="f12386177a041e2fc431b781764eab85.png"/>
+      <screenshot image="5e393bc9bd9bdd2803a294bbdabafe2f.png"/>
+    </screenshots>
+    <description>Seleccionar item sonometro</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2160">
+    <screenshots>
+      <screenshot image="e4fea0a92f00ffe720adef2d78685ce5.png"/>
+      <screenshot image="9a0f175c63cf8390fbd87344b42e824c.png"/>
+    </screenshots>
+    <description>Iniciar medicion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="12837">
+    <screenshots>
+      <screenshot image="5456f3c14327fe9d32b95113ffc0cc36.png"/>
+      <screenshot image="22b60b8f48b02d0f9b367c2b75323b4c.png"/>
+    </screenshots>
+    <description>Seleccionar si para enviar notificacion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2743">
+    <screenshots>
+      <screenshot image="c1fb41289852e293da6343efcbdd3867.png"/>
+      <screenshot image="6b966e1739e53034b26258ff9234d2b2.png"/>
+    </screenshots>
+    <description>Seleccionar fuente desconocida</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2273">
+    <screenshots>
+      <screenshot image="963b820ee6d14138e1846168b301908a.png"/>
+      <screenshot image="2ea1b4233d43c46f5f0709a440b9d208.png"/>
+    </screenshots>
+    <description>Esperar mensaje de confirmacion de envio</description>
+  </test-step>
+</acceptance-test-run>

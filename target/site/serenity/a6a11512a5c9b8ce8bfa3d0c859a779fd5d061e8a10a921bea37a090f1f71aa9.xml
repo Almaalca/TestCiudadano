@@ -1,0 +1,57 @@
+<acceptance-test-run title="Medicion con GPS desactivado" name="medicionConGPSDesactivado" steps="8" successful="8" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="36236" timestamp="2019-07-27T00:31:28.282-05:00" session-id="7c7f3bb0-fcc3-4fa4-91eb-72691352ca2d" test-source="JUnit">
+  <user-story id="sounddown.ciudadano.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.ciudadano.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="8461">
+    <screenshots>
+      <screenshot image="6182be651d1b46febde235fdaaaad40a.png"/>
+    </screenshots>
+    <description>Notifica que el gps esta apagado y da la opcion de encerder</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2543">
+    <screenshots>
+      <screenshot image="6182be651d1b46febde235fdaaaad40a.png"/>
+    </screenshots>
+    <description>Click en la opcion de no enceder el GPS</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3023">
+    <screenshots>
+      <screenshot image="9e1213c2af149ba9dfabdb4b94680b0f.png"/>
+      <screenshot image="5c145a5ebffe8be4daabfa793b519a61.png"/>
+    </screenshots>
+    <description>Deslizar menu</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2343">
+    <screenshots>
+      <screenshot image="82a3432052d8e7140ecff8911a87793f.png"/>
+      <screenshot image="d3c218cef8d5429be9e9d9972316508b.png"/>
+    </screenshots>
+    <description>Seleccionar item sonometro</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2368">
+    <screenshots>
+      <screenshot image="e2970e4003f336e02add79aa443bcc32.png"/>
+    </screenshots>
+    <description>Iniciar medicion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="11100">
+    <screenshots>
+      <screenshot image="b6d37c458f235756bd24c3e4b7af2ecc.png"/>
+      <screenshot image="e2c5acd979577d0d406fb207598cefae.png"/>
+    </screenshots>
+    <description>Notifica que no se puede obtener la ubicacion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2593">
+    <screenshots>
+      <screenshot image="d5529e39996c8b4e74ebb7fdbb599087.png"/>
+    </screenshots>
+    <description>Click en aceptar que no se puede obtener la ubicacion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2013">
+    <screenshots>
+      <screenshot image="d35a053e2837664cf5bfe6dd72743ce4.png"/>
+    </screenshots>
+    <description>Resultado</description>
+  </test-step>
+</acceptance-test-run>

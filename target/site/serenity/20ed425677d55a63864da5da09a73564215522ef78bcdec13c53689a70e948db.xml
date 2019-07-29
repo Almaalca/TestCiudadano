@@ -1,0 +1,56 @@
+<acceptance-test-run title="Medicion sin internet" name="medicionSinInternet" steps="8" successful="8" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="68846" timestamp="2019-07-27T00:25:17.239-05:00" session-id="6e480321-99f1-4a6d-98ed-729a2f29a701" test-source="JUnit">
+  <user-story id="sounddown.ciudadano.features.SerenityAppiumTest" name="Serenity appium test" path="sounddown.ciudadano.features"/>
+  <tags>
+    <tag name="Serenity appium test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="41009">
+    <screenshots>
+      <screenshot image="971ea1aff05e251dde866190dc15e726.png"/>
+    </screenshots>
+    <description>Notifica que algunas funcionalidades no funcionaran correctamente</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2682">
+    <screenshots>
+      <screenshot image="01dcf83078cbdad7ba780e5c874ab839.png"/>
+    </screenshots>
+    <description>Click en aceptar que algunas funcionalidades no funcionaran</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="3270">
+    <screenshots>
+      <screenshot image="196a6fa336c85447e9d43e5239edfb74.png"/>
+    </screenshots>
+    <description>Deslizar menu</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2392">
+    <screenshots>
+      <screenshot image="280fdd68dec058676b3b29731c26b1fe.png"/>
+      <screenshot image="8e7e1e050a38b47d3a6bee0857db8abb.png"/>
+    </screenshots>
+    <description>Seleccionar item sonometro</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2077">
+    <screenshots>
+      <screenshot image="0c70bf449ef076b0a752a8e4a7db852b.png"/>
+    </screenshots>
+    <description>Iniciar medicion</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="11287">
+    <screenshots>
+      <screenshot image="a7f6c5ced8a9c7363f70c4095c5c4e7e.png"/>
+      <screenshot image="1eea27ee22381795b8aedc1f069b1c73.png"/>
+    </screenshots>
+    <description>Notifica error de carga</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2578">
+    <screenshots>
+      <screenshot image="1eea27ee22381795b8aedc1f069b1c73.png"/>
+    </screenshots>
+    <description>Click en aceptar el error de carga</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1783">
+    <screenshots>
+      <screenshot image="c9845bbeb2512963d10691d30889870f.png"/>
+    </screenshots>
+    <description>Resultado</description>
+  </test-step>
+</acceptance-test-run>
